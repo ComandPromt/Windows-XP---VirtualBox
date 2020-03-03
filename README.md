@@ -1,2 +1,3 @@
 # Windows-XP---VirtualBox
-windows xp withjava (for tests)
+
+Windows XP with java (for tests)
